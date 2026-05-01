@@ -106,7 +106,7 @@ Execute the master PowerShell deployment script to bridge all modules via the Un
 ```
 
 ## 📊 Live Telemetry & Developer Experience
-Once compiled, developers launch the Unified Editor. The UI immediately hooks into the Verse STM, ensuring that the editor itself never stalls, even when loading a map with 10,000,000 entities. Selecting the Neural Content Hallucinator tab allows developers to type prompts and instantly stream AI-generated assets into the viewport, fully optimized by the Nanite V2 compute culling shaders in real-time.
+Once compiled, developers launch the Unified Editor. The UI immediately hooks into the Verse STM, ensuring that the editor itself never stalls, even when loading a map with 10,000,000 entities. Selecting the **Neural Content Hallucinator** tab allows developers to type prompts and instantly stream AI-generated assets into the viewport, fully optimized by the Nanite V2 compute culling shaders in real-time.
 
 ---
 
